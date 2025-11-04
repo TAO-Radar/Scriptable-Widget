@@ -1,4 +1,5 @@
 {
   "baseUrl": "https://widget.secondbuy.site/api",
-  "getTaoPriceUrl": "https://api.binance.com/api/v3/ticker/price?symbol=TAOUSDT"
+  "getTaoPriceUrl": "https://api.binance.com/api/v3/ticker/price?symbol=TAOUSDT",
+  "version": 1.5
 }
