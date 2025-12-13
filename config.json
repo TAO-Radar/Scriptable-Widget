@@ -1,6 +1,6 @@
 {
-  "taoRadarBaseUrl": "https://gateway.tao-radar.space/api",
+  "taoRadarBaseUrl": "https://gateway.taoradar.space/api",
   "getTaoPriceUrl": "https://api.binance.com/api/v3/ticker/price?symbol=TAOUSDT",
   "version": "1.5",
-  "taoStatsBaseUrl": "https://notaostats.tao-radar.space/api"
+  "taoStatsBaseUrl": "https://notaostats.taoradar.space/api"
 }
